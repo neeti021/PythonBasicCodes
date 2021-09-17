@@ -1,0 +1,5 @@
+Welcome to python
+python datatypes
+list
+tuples
+set
